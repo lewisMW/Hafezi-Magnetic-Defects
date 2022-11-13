@@ -1,0 +1,1 @@
+This work presents a treatment of such magnetic coupling terms on the Hafezi model for photonic coupled ring-resonator array topological insulators.
